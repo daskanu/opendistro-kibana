@@ -1,2 +1,4 @@
-# opendistro-kibana
-Official Opendistro Kibana image with installed Prometheus exporter plugin
+# Opendistro Kibana images with installed Prometheus exporter plugin
+
+Versions:
+- 7.8.0
