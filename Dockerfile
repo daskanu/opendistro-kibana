@@ -1,2 +1,2 @@
-FROM docker.io/amazon/opendistro-for-elasticsearch-kibana:1.11.0
-RUN bin/kibana-plugin install https://github.com/pjhampton/kibana-prometheus-exporter/releases/download/7.9.1/kibana-prometheus-exporter-7.9.1.zip
+FROM docker.io/amazon/opendistro-for-elasticsearch-kibana:1.12.0
+RUN bin/kibana-plugin install https://github.com/pjhampton/kibana-prometheus-exporter/releases/download/7.10.0/kibana-prometheus-exporter-7.10.0.zip
